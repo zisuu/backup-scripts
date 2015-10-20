@@ -1,0 +1,9 @@
+/.adobe
+/.bash_history
+/.config
+/.gconf
+/.gconfd
+/.mozilla
+/tmp
+*.vdi
+*.vmdk
