@@ -10,7 +10,7 @@
 
 
 # define vars
-USBDRIVENAME="USB"
+USBDRIVENAME="usb"
 SOURCE=/home/$USER/
 TARGET=/run/media/$USER/$USBDRIVENAME
 FULLFOLDER=$TARGET/Backup/full
